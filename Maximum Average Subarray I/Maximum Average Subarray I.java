@@ -1,36 +1,15 @@
 class Solution {
-    
-    public boolean isPalindrome(String s) {
-        if (s == null || s.length() <= 1) {
-            return true;
+    public double findMaxAverage(int[] nums, int k) {
+        double sum = 0;
+        for(int i = 0; i < k; i++) sum += nums[i];
+
+        double maxSum = sum;
+
+        for(int i = k ; i < nums.length; i++){
+            sum += nums[i] - nums[i - k];
+            if(sum > maxSum) maxSum = sum;
         }
 
-        int left = 0;
-        int right = s.length() - 1;
-
-        while (left < right) {
-            char leftChar = s.charAt(left);
-            char rightChar = s.charAt(right);
-
-            if (!Character.isLetterOrDigit(leftChar)) {
-                left++;
-                continue; 
-            }
-
-            if (!Character.isLetterOrDigit(rightChar)) {
-                right--;
-                continue; 
-            }
-
-            
-            if (Character.toLowerCase(leftChar) != Character.toLowerCase(rightChar)) {
-                return false;
-            }
-
-            left++;
-            right--;
-        }
-
-        return true;
+        return maxSum/k;
     }
 }
