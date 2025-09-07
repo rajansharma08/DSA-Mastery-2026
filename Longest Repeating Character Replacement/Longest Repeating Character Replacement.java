@@ -1,36 +1,20 @@
 class Solution {
-    
-    public boolean isPalindrome(String s) {
-        if (s == null || s.length() <= 1) {
-            return true;
-        }
+    public int characterReplacement(String s, int k) {
+        int[] count = new int[26];
+        int left = 0, maxFreq = 0, maxLength = 0;
 
-        int left = 0;
-        int right = s.length() - 1;
+        for (int right = 0; right < s.length(); right++) {
+            count[s.charAt(right) - 'A']++;
+            maxFreq = Math.max(maxFreq, count[s.charAt(right) - 'A']);
 
-        while (left < right) {
-            char leftChar = s.charAt(left);
-            char rightChar = s.charAt(right);
-
-            if (!Character.isLetterOrDigit(leftChar)) {
+            while ((right - left + 1) - maxFreq > k) {
+                count[s.charAt(left) - 'A']--;
                 left++;
-                continue; 
             }
 
-            if (!Character.isLetterOrDigit(rightChar)) {
-                right--;
-                continue; 
-            }
-
-            
-            if (Character.toLowerCase(leftChar) != Character.toLowerCase(rightChar)) {
-                return false;
-            }
-
-            left++;
-            right--;
+            maxLength = Math.max(maxLength, right - left + 1);
         }
 
-        return true;
+        return maxLength;
     }
 }
