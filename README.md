@@ -47,3 +47,19 @@ Every problem I solve is organized to showcase not just the solution, but the th
 ---
 
 Thank you for visiting. I am actively preparing for challenging SDE opportunities and am always open to connecting with fellow engineers and recruiters.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
+<!---LeetCode Topics End-->
