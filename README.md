@@ -58,8 +58,13 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
