@@ -68,6 +68,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
@@ -117,4 +118,8 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1301-number-of-paths-with-max-score) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
