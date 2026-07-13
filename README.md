@@ -144,4 +144,8 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1408-string-matching-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
