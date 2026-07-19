@@ -1,39 +1,25 @@
 class Solution {
-    public String smallestSubsequence(String s) {
-        int n = s.length();
-
-        // last[c] = last index at which character c appears
-        int last[] = new int[26];
-        for(int i=0; i<n; i++) {
-            char ch = s.charAt(i);
-            last[ch-'a']= i;
-        }
-
-        Stack<Integer> st = new Stack<>();
-        HashSet<Character> hset = new HashSet<>(); // tracks which chars are currently in the stack
-        for(int i=0; i<n; i++) {
-            char ch = s.charAt(i);
-            if(hset.contains(ch))
-                continue; // already placed; keep its earlier (better) position
-            // Pop a bigger char only if it reappears later, so we can re-add it then
-            while(!st.isEmpty()) {
-                char prev = s.charAt(st.peek());
-                if(prev > ch && last[prev-'a']>i) {
-                    st.pop();
-                    hset.remove(prev);
-                } else break;
-            }
-
-            st.push(i);
-            hset.add(ch);
-        }
-
-        // Stack holds indices bottom-to-top; pop reverses order, so reverse back
+    public String smallestSubsequence(String text) {
         StringBuilder sb = new StringBuilder();
-        while(!st.isEmpty()) {
-            sb.append(s.charAt(st.pop()));
+        int[] count = new int[128];
+        boolean[] used = new boolean[128];
+        for (final char c : text.toCharArray())
+            ++count[c];
+        for (final char c : text.toCharArray()) {
+            --count[c];
+            if (used[c])
+                continue;
+            while (sb.length() > 0 && last(sb) > c && count[last(sb)] > 0) {
+                used[last(sb)] = false;
+                sb.setLength(sb.length() - 1);
+            }
+            used[c] = true;
+            sb.append(c);
         }
-        sb.reverse();
         return sb.toString();
+    }
+
+    private char last(StringBuilder sb) {
+        return sb.charAt(sb.length() - 1);
     }
 }
