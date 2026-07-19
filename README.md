@@ -61,6 +61,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## String
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1408-string-matching-in-an-array) |
@@ -168,4 +169,16 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
