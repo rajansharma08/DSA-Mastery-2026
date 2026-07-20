@@ -74,6 +74,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
@@ -136,6 +137,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
@@ -181,4 +183,8 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
