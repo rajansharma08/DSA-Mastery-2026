@@ -66,6 +66,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1408-string-matching-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
 | ------- |
