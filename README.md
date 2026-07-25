@@ -146,12 +146,14 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String Matching
 |  |
