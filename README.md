@@ -75,6 +75,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1301-number-of-paths-with-max-score) |
@@ -144,12 +145,14 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
