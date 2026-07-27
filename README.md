@@ -81,6 +81,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1301-number-of-paths-with-max-score](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1408-string-matching-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
@@ -116,6 +117,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -148,6 +150,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [0628-maximum-product-of-three-numbers](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
