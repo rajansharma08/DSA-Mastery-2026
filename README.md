@@ -56,6 +56,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -67,12 +68,14 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1408-string-matching-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1408-string-matching-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
@@ -155,6 +158,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -199,6 +203,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
