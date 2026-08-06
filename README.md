@@ -175,6 +175,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -186,6 +187,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
