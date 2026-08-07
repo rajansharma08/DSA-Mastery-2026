@@ -70,6 +70,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
@@ -176,6 +177,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -198,6 +200,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,6 +215,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -237,4 +241,8 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | ------- |
 | [0486-predict-the-winner](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
