@@ -60,6 +60,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3731-find-missing-elements) |
 ## String
@@ -104,6 +105,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
