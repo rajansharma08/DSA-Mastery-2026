@@ -1,11 +1,9 @@
 class Solution:
-    def stoneGameVIII(self, A: List[int]) -> int:
-        n = len(A)
-        s = list(accumulate(A))
+    def stoneGameVIII(self, stones: list[int]) -> int:
+        for index in range(1, len(stones)):
+            stones[index] += stones[index - 1]
 
-        @cache
-        def maxDiff(i):
-            if i == n - 1: return s[n - 1]
-            return max(maxDiff(i + 1), s[i] - maxDiff(i + 1))
-
-        return maxDiff(1)
+        best = stones[-1]
+        for index in range(len(stones) - 2, 0, -1):
+            best = max(best, stones[index] - best)
+        return best
