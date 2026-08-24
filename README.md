@@ -101,6 +101,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1386-cinema-seat-allocation](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1386-cinema-seat-allocation) |
 | [1408-string-matching-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2029-stone-game-ix) |
@@ -135,6 +136,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1140-stone-game-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -198,6 +200,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [0877-stone-game](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2029-stone-game-ix) |
@@ -236,6 +239,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -282,6 +286,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [0877-stone-game](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2029-stone-game-ix) |
 ## Backtracking
@@ -297,12 +302,14 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
