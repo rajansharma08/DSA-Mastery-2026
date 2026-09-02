@@ -127,6 +127,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3875-construct-uniform-parity-array-i) |
 ## String Matching
 |  |
 | ------- |
