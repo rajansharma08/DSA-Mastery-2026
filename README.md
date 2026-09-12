@@ -121,6 +121,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -143,6 +144,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -157,6 +159,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1510-stone-game-iv](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -212,6 +215,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3731-find-missing-elements) |
