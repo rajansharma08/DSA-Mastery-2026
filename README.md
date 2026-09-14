@@ -226,6 +226,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | ------- |
 | [0486-predict-the-winner](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1510-stone-game-iv) |
@@ -368,4 +369,8 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
