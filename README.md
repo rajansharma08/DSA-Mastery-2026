@@ -84,6 +84,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -303,6 +304,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
