@@ -126,6 +126,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
@@ -162,6 +163,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [1872-stone-game-viii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -241,6 +243,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
