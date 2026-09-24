@@ -131,6 +131,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [3524-find-x-value-of-array-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -251,6 +252,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [3524-find-x-value-of-array-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3870-count-commas-in-range) |
