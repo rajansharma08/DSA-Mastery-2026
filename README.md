@@ -53,6 +53,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -74,6 +75,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 | [0115-distinct-subsequences](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1408-string-matching-in-an-array) |
@@ -199,6 +201,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -220,6 +223,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -295,6 +299,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -346,6 +351,7 @@ Thank you for visiting. I am actively preparing for challenging SDE opportunitie
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajansharma08/DSA-Mastery-2026/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
